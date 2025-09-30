@@ -1,4 +1,5 @@
-💫 About Me:
+💫 **About Me:**
+
 💻 Python Developer | AI & Data Automation
 🚀 Real-world apps with Streamlit, ML & visualization
 📊 Data → Insights → Action
